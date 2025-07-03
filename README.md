@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.5 - WELL FIT X](https://github.com/Chauvet-Pro/WELLFITX/blob/a946cecd7f8ba71d9eda90879b195f8ec04762ce/firmware/V1.0.5.zip)
+- Adds Charge Light Indicator On/Off options in Display Menu and RDM
+
 [V1.0.4 - WELL Fit X](https://github.com/Chauvet-Pro/WELLFITX/raw/refs/heads/main/firmware/V1.0.4.zip)
 - Fixes the preset color issue with the RF remote
 
