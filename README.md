@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.6 - WELL FIT X](https://github.com/Chauvet-Pro/WELLFITX/blob/d0eb65549509ecfae48442c1e075f3d4d6d935c5/firmware/V1.0.6.zip)
+- 20% improvement on output across all battery modes
+
 [V1.0.5 - WELL FIT X](https://github.com/Chauvet-Pro/WELLFITX/blob/a946cecd7f8ba71d9eda90879b195f8ec04762ce/firmware/V1.0.5.zip)
 - Adds Charge Light Indicator On/Off options in Display Menu and RDM
 - Add RDM Support via Wireless
