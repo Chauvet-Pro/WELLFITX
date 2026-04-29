@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V1.0.6 - WELL FIT X](https://github.com/Chauvet-Pro/WELLFITX/blob/d0eb65549509ecfae48442c1e075f3d4d6d935c5/firmware/V1.0.6.zip)
+[V1.0.6 - WELL FIT X](https://github.com/Chauvet-Pro/WELLFITX/blob/c3b0df3190d267ea9dca4d9ecc220e5307892023/firmware/V1.0.6.zip)
 - 20% improvement on output across all battery modes
 
 [V1.0.5 - WELL FIT X](https://github.com/Chauvet-Pro/WELLFITX/blob/a946cecd7f8ba71d9eda90879b195f8ec04762ce/firmware/V1.0.5.zip)
